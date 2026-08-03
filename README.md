@@ -1,6 +1,8 @@
 <div align="center">
   <br />
-
+        <a href="#" target="_blank">
+      <img src="https://i.ibb.co/4R5RkmW/Thumbnail-5.png" alt="Project Banner">
+    </a>
   <br />
 
   <div>
