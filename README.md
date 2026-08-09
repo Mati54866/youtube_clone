@@ -32,7 +32,7 @@
 
 ---
 
-## <a name="overview">✨ Overviews</a>
+## <a name="overview">✨ Overview</a>
 
 This YouTube Clone application delivers a seamless video browsing experience with a sleek, modern interface. Built with industry best practices, it replicates core YouTube functionalities including video search, channel browsing, and detailed video views.
 
