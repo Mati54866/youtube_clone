@@ -6,6 +6,7 @@
   <br />
 
   <div>
+    <a href="https://github.com/Mati54866/youtube_clone/actions"><img src="https://github.com/Mati54866/youtube_clone/actions/workflows/ci.yml/badge.svg" alt="CI Status" /></a>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Material_UI-black?style=for-the-badge&logoColor=white&logo=mui&color=007FFF" alt="material-ui" />
     <img src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logoColor=white&logo=reactrouter&color=CA4245" alt="react-router" />
